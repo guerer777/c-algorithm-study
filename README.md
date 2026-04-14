@@ -3,13 +3,12 @@
 
 ### C 语言算法仓库 README 模板
 
-```markdown
+
 # C Algorithm Study
 
 > 个人C语言算法与数据结构练习仓库，涵盖基础语法、常见算法模板及蓝桥杯/洛谷刷题记录。
 
-## 📁 仓库结构
-```
+ 📁 仓库结构
 c-algorithm-study/
 ├── basic/             # 基础语法与数据结构
 │   ├── array/         # 数组与字符串处理
@@ -21,7 +20,7 @@ c-algorithm-study/
 ├── luogu/             # 洛谷题解 (Pxxx)
 ├── lanqiao/            # 蓝桥杯真题训练
 └── README.md          # 项目说明
-```
+
 
 ## 🌟 训练目标
 - 系统掌握 C 语言核心语法与指针操作
@@ -39,4 +38,4 @@ c-algorithm-study/
 
 ## ✅ 关于我
 专注于 C 语言算法竞赛与软件开发实践，持续通过仓库记录成长轨迹。
-```
+
