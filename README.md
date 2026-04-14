@@ -1,3 +1,7 @@
+
+
+---
+
 # 📂 根目录 `README.md`
 ```markdown
 # C语言算法与数据结构仓库
@@ -74,3 +78,7 @@ C-Algorithm-Study/
 2. **学习顺序**：`basic/grammar` → `basic/loop` → `basic/recursion` → `basic/dp` → 竞赛题库
 3. **提交规范**：所有代码注释清晰，变量命名语义化，符合C语言工程规范
 ```
+
+
+
+现在直接复制这段内容，覆盖你根目录的 `README.md`，提交后整个仓库就完美了！
